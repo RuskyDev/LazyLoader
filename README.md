@@ -5,6 +5,10 @@ To use LazyLoader, simply include the **lazyloader.js** file in your HTML page l
 ```html
 <script src="lazyloader.js"></script>
 ```
+or
+```html
+<script src="https://raw.githubusercontent.com/RuskyDev/LazyLoader/main/lazyloader.js"></script>
+```
 # Usage
 To use LazyLoader, select the images you want to lazy load using a query selector, and then create a new instance of the **LazyLoader** class. You can pass in an optional options object to customize the behavior of the library. Here's an example:
 
